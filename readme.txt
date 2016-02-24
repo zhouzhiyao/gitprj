@@ -5,4 +5,4 @@ Git is a distributed version control system.
 
 Git is free software distributed under the GPL.
 
-My partner is still prefers SVN.
+My sutpid boss is still prefers SVN.
