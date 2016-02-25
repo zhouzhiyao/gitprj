@@ -9,4 +9,4 @@ My sutpid boss is still prefers SVN.
 
 Thinkpad thinkpad thinkpad.
 
-dev pro.
+dev pro. scid.
